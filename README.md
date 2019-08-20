@@ -8,7 +8,7 @@ The program consists of three small .py files, so ideally you should be able to 
 
 ## Authors
 
-* **Joseph McCartney** - *Initial work* - [joemmccartney](https://github.com/joemmccartney)
+* **Joe McCartney** - *Initial work* - [joemmccartney](https://github.com/joemmccartney)
 
 ## Acknowledgments
 
